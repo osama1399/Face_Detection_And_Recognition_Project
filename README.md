@@ -1,4 +1,4 @@
-# Face Detection System using OpenCV
+# Face Detection & Recognition System using OpenCV
 
 A lightweight real-time face detection application built with Python and OpenCV.  
 This project captures live webcam video, detects human faces using the Haar Cascade Classifier, and highlights them with bounding boxes in real time.
